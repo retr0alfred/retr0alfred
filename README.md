@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Social Networking Platform<br>🌱 I’m currently learning Kotlin<br>👯 I’m looking to collaborate on Open-source projects and innovative web applications<br>📫 How to reach me alfredmathew.rikiri@gmail.com
+I'm currently learning web-app development (MERN) and mobile development (KMM)<br>Reach me @ alfredmathew.rikiri@gmail.com
 
 
 ## 🌐 Socials:
