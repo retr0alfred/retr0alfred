@@ -1,5 +1,5 @@
 # About Me:
-I'm a very bored CompSci student building whatever I fancy.<br>Reach me @ alfredmathew.helpdesk@gmail.com
+I like making cool stuff hehe.<br>Reach me @ alfredmathew.helpdesk@gmail.com
 
 
 ## Socials:
